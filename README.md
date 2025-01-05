@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm **infosecn1nja**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools to enhance the security community.
 
 ## 🌟 About Me
-- **Security Researcher**: Specializing in Red and Purple Teaming, Adversary Simulation, Cyber Threat Intelligence, and Threat Hunting.
+- **Expertise in**: Red and Purple Teaming, Adversary Simulation, Cyber Threat Intelligence, and Threat Hunting.
 - **Community Contributor**: Active contributor to projects like Atomic Red Team, PS Empire, MITRE ATT&CK Framework, LOLBas, and more.
 - **Open-Source Advocate**: Actively contributing to and creating tools that benefit the cybersecurity community.
 
