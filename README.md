@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **infosecn1nja**, a passionate cybersecurity p
 ## 🚀 Recent Projects
 | Project Name                          | Description                                                                                   | Link                                                                                   |
 |---------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Invoke-AtomicAssessment               | A tool for adversary emulation leveraging Atomic Red Team and generating ATTiRe format results| [GitHub](https://github.com/infosecn1nja/Invoke-AtomicAssessment)                     |
+| Invoke-AtomicAssessment               | A tool for adversary emulation leveraging Atomic Red Team and generating ATTiRe format results.| [GitHub](https://github.com/infosecn1nja/Invoke-AtomicAssessment)                     |
 | VeilTransfer                          | VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities.                                   | [GitHub](https://github.com/infosecn1nja/VeilTransfer)                                |
 | Cyber Threat Intelligence Resources   | Stay informed about cybersecurity threats in real time! Access a variety of threat intelligence vendor reports and useful resources all in one place.	        | [CTI Resources](https://start.me/p/wMrA5z/cyber-threat-intelligence)                  |
 
