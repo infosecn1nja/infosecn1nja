@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **infosecn1nja**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools to enhance the security community.
+Welcome to my GitHub profile! I'm **infosecn1nja**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools to enhance the cybersecurity community.
 
 ## 🌟 About Me
 - **Expertise in**: Red and Purple Teaming, Adversary Simulation, Cyber Threat Intelligence, and Threat Hunting.
